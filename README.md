@@ -1,1 +1,1 @@
-# FOILSTRAPLESS-TRICKS
+# KiteTricksApp
